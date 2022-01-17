@@ -10,7 +10,7 @@ Additional Space Complexity: dL/da 를 보관해야함 , O(hiddenLayer)  (nueral
 
 
 
-![image-20220117213213814](C:\Users\Woong\AppData\Roaming\Typora\typora-user-images\image-20220117213213814.png)
+![image](https://user-images.githubusercontent.com/50165842/149771802-0bf846af-655a-44a1-b2ef-0bfe7959a3cd.png)
 
 
 
@@ -24,5 +24,5 @@ Additional Space Complexity: O(1)
 
 
 
-![image-20220117214156726](C:\Users\Woong\AppData\Roaming\Typora\typora-user-images\image-20220117214156726.png)
+![image](https://user-images.githubusercontent.com/50165842/149771834-01fd8f88-834c-45d5-a0b1-0672df4db176.png)
 
