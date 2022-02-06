@@ -16,3 +16,24 @@
 6. 증거물로 Pesudo Code 사진과 여러 개의 솔루션을 구현한 link를 올린다.
 
 처음에는 , 이 방법이 힘들고 괴롭겠지만, 글쓰기 한달 챌린지 처럼 꾸준히 이어나갈려고 합니다.
+
+
+
+> 아래의 링크들은 종이로 푼 문제들을 종합해서 작은 chunk 부터 큰 chunk 순으로 논리적으로 전개해서 작성한 글 링크입니다.
+
+# CodingQuestion
+
+## CodingInterview
+
+1. [Array Rotation Program - Korean](https://woongjoonchoi.github.io/codinginterview/temp-array/)
+
+   [Array Rotation Program - English](https://oongjoon.github.io/codinginterview/temp-array/)
+
+# DeepLearning
+
+## DLS(DeepLearningSpecialization)
+
+1. [Optimization Assignment from scratch - Korean](https://woongjoonchoi.github.io/dls_c2/Optimization-scratch/)
+
+   [Optimization Assignment from scratch - English](https://oongjoon.github.io/dls_c2/Optimization-scratch/)
+
