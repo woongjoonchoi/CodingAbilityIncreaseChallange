@@ -37,3 +37,7 @@
 
    [Optimization Assignment from scratch - English](https://oongjoon.github.io/dls_c2/Optimization-scratch/)
 
+2. [Convolution Assignment from scratch - Korean](https://woongjoonchoi.github.io/dls_c2/conv-scratch/)
+
+   [Convolution Assignment from scratch - English](https://oongjoon.github.io/dls_c2/conv-scratch/)
+
