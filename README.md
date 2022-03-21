@@ -1,5 +1,20 @@
 ## This is CodingAbility Increase Challange
 
+🌱 I’m currently doing   CodingAbilityIncrease Challange  
+link : [link](https://github.com/woongjoonchoi/CodingAbilityIncreaseChallange)  
+### Why do this?
+If we solve a lot of different problems, we are more likely to do well when trying to solve other problems. It's not good to spend too much. We should practice while paying attention to the items below.
+#### Decomposing Problem into small component
+Chunking is this grouping of meaningful information. As chunking increases, so does the unit of information it understands. Therefore, software development also needs to break down the problem in detail.
+#### know When to use chunk(context)
+we learn when to use a particular chunking while studying the problems in which it is used and when it is not. 
+#### Then , Isn't it good to solve a lot? 
+Of course, It is good if you divide it into chunks, practice and solve a lot.
+`However, chunks must take precedence.`
+#### Logical connection between each step
+For subjects like math and science, it's important to know why each next step was made. Software development is also an extension of mathematics and science, so it is necessary to logically connect each stage. Practicing this will allow you to logically connect each step later when you face different problems on your own.
+
+
 코딩 능력을 기르기 위해서는 정답이 없음을 깨달았습니다. 
 여러개의 솔루션을 그저 외우면 코딩테스트에 통과할 능력은 기를수 도 있습니다. 목전의 코테만을 목적으로 한다면 이 방법이 효율적일 것입니다. 
 하지만 , 나중에 이직을 위해서 다시 코테를 준비해야 하는 상황이 올수도 있습니다. 당장의 급한 불만을 끄기 위해서 공부하는 것은 나중에 부메랑이 되어서 돌아올것이라 확신합니다. 따라서, 저는 이러한 셀프 첼린지를 시작합니다 .
