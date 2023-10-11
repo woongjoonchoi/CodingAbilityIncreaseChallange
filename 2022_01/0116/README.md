@@ -10,7 +10,8 @@ Additional Space Complexity : O(n)
 
 ![image](https://user-images.githubusercontent.com/50165842/149659421-850061bc-f419-4de3-af9e-dab25488113a.png)
 
-Problem :Array Rotation Prblem
+Problem :Array Rotation Prblem  
+Rotation Step d is random.  
 Problem Link : [Link](https://www.geeksforgeeks.org/python-program-for-program-for-array-rotation-2/)
 SolutionLink : [Link](https://github.com/woongjoonchoi/GeeksForGeeksChallange/tree/main/challange/rotation_array)
 
@@ -24,9 +25,9 @@ Additional Space Complexity: O(d)
 
 
 
-2,.Rotation one by one
+2,.Rotation one by one  
 
-Time Complexity : O(n * d)
+Time Complexity : O(n * d)  
 
 Additional Space Complexity  : O(1)
 
