@@ -1,5 +1,5 @@
 Problem : Postorder Traversal
-ProblemLink : [Link](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)  
+ProblemLink : [Link](https://www.geeksforgeeks.org/problems/postorder-traversal/1?page=1&category=Tree&status=solved&sortBy=submissions)  
 SolutionLink :[Link](https://github.com/woongjoonchoi/CodingTest/tree/main/leetcode/explore/binary_search_tree/postorder_traversal)    
 
 1.using Two stack
