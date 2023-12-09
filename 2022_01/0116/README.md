@@ -1,6 +1,6 @@
 Problem : Postorder Traversal
 ProblemLink : [Link](https://www.geeksforgeeks.org/problems/postorder-traversal/1?page=1&category=Tree&status=solved&sortBy=submissions)  
-SolutionLink :[Link](https://github.com/woongjoonchoi/CodingTest/tree/main/leetcode/explore/binary_search_tree/postorder_traversal)    
+SolutionLink :[Link](https://github.com/woongjoonchoi/CodingTest/blob/main/geeksforgeeks/Treetraversal/Review/23_12_10_post_iter.py)    
 
 1.using Two stack
 
