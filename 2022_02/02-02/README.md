@@ -8,7 +8,8 @@ Time Complexity : O(1)
 
 Space Complexity : O(n)
 
-Problem Link : [Loading... (leetcode.com)](https://leetcode.com/problems/min-stack/)
+Problem Link : [Loading... (leetcode.com)](https://leetcode.com/problems/min-stack/)  
+                [Link from Geeksforgeeks](https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/)
 
 Implementation : [CodingTest/minstack.py at main · woongjoonchoi/CodingTest (github.com)](https://github.com/woongjoonchoi/CodingTest/blob/main/leetcode/explore/stack/minstack.py)
 

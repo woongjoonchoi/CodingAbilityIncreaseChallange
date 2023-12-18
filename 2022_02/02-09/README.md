@@ -1,5 +1,7 @@
 # SpecialStack
 
+[Link from Geeksforgeeks](https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/)
+
 ## SpaceLittleOptimized
 
 ### Difference between Sol1
