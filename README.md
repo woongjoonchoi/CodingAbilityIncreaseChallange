@@ -28,7 +28,7 @@ For subjects like math and science, it's important to know why each next step wa
 3. Pesudo Code를 작성한다.
 4. 이를 실제 코드로 Implementation을 한다.
 5. 코드를 더 최적화 할 수 없는지를 고민한다.
-6. 증거물로 Pesudo Code 사진과 여러 개의 솔루션을 구현한 link를 올린다.
+6. 증거물로 Pesudo Code 사진과 여러 개의 솔루션을 구현한 link를 올린다. (종이로 적는것보다 markdown에 글로 옮기는 것이 더 힘든과정이기에 markdown으로 옮길려합니다.)
 
 처음에는 , 이 방법이 힘들고 괴롭겠지만, 글쓰기 한달 챌린지 처럼 꾸준히 이어나갈려고 합니다.
 
