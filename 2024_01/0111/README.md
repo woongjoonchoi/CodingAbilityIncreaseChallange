@@ -6,7 +6,7 @@ rotation array는 array의 element를 왼쪽으로 d만큼 움직이는 solution
 
 ## Problem
 
-정수 n과 정수 d가 주어질 때 , [1,2,...,n] 의 array를 임의의 동작 S를 통해 길의 n의 array가 output으로 리턴된다. S를 구하여라. 
+정수 n과 정수 d가 길이 n의 array를 임의의 동작 S를 통해 길의 n의 array가 output으로 리턴된다. S를 구하여라. 
 
 n=4 , d=1  $$ \rightarrow $$ [2,3,4,1]  
 
