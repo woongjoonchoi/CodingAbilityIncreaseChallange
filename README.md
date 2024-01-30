@@ -63,4 +63,5 @@ For subjects like math and science, it's important to know why each next step wa
    [Convolution Assignment from scratch - English](https://oongjoon.github.io/dls_c2/conv-scratch/)
    
 3. [FeedForward Math derivation - korean](https://woongjoonchoi.github.io/dlarchitecture/Feed-Forward-Network/)
+   
    [FeedForward Math derivation - english](https://oongjoon.github.io/dlarchitecture/FeedForward/)
